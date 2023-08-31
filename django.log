@@ -1,0 +1,5 @@
+Watching for file changes with StatReloader
+General page
+"GET / HTTP/1.1" 200 116
+About page
+"GET /about/ HTTP/1.1" 200 154
